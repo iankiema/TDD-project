@@ -54,5 +54,3 @@ RSpec.describe Solver do
     end
   end
 end
-
-
