@@ -92,8 +92,8 @@ Deploy this project on any server: localhost, live host, cloud host.
 👤 **Ian Kiema**
 
 - GitHub: [@githubhandle](https://github.com/iankiema)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/ian-kiema-73419779)
+- Twitter: [@twitterhandle](https://twitter.com/IanMwas2)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ian-kiema)
 
 👤 **FirePicaso**
 
